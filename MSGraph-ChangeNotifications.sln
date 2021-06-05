@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSGraph-ChangeNotifications", "MSGraph-ChangeNotifications.csproj", "{849918AB-082D-4ED8-B353-ABD24CCFC35A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849918AB-082D-4ED8-B353-ABD24CCFC35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849918AB-082D-4ED8-B353-ABD24CCFC35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849918AB-082D-4ED8-B353-ABD24CCFC35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849918AB-082D-4ED8-B353-ABD24CCFC35A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5ECB9F8-BAB7-4EFA-9B40-8821970C9F1D}
+	EndGlobalSection
+EndGlobal
